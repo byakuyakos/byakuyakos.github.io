@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>acgnwang</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.acgrule.tk/"/>
+  <updated>2021-01-28T13:40:44.419Z</updated>
+  <id>https://blog.acgrule.tk/</id>
+  
+  <author>
+    <name>acgnwang</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>图床使用并搭配tyoora+picgo编写markdown</title>
+    <link href="https://blog.acgrule.tk/posts/7cae5a55.html"/>
+    <id>https://blog.acgrule.tk/posts/7cae5a55.html</id>
+    <published>2021-01-21T05:15:14.000Z</published>
+    <updated>2021-01-28T13:40:44.419Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;写在前面：本文介绍主要是为了学习科研以及外贸工作。请遵守中华人民共和国法律法规，不能上传不该上传的文件&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;Typora和PciGo图片上传快速编写md&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.acgrule.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="悦读" scheme="https://blog.acgrule.tk/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="图床" scheme="https://blog.acgrule.tk/tags/%E5%9B%BE%E5%BA%8A/"/>
+    
+      <category term="markdown编辑" scheme="https://blog.acgrule.tk/tags/markdown%E7%BC%96%E8%BE%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github加速下载和克隆</title>
+    <link href="https://blog.acgrule.tk/posts/a68ad31b.html"/>
+    <id>https://blog.acgrule.tk/posts/a68ad31b.html</id>
+    <published>2020-12-13T02:51:32.000Z</published>
+    <updated>2021-01-28T13:40:44.414Z</updated>
+    
+    <summary type="html">
+    
+      Github加速下载和克隆
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.acgrule.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="悦读" scheme="https://blog.acgrule.tk/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="Github" scheme="https://blog.acgrule.tk/tags/Github/"/>
+    
+      <category term="CDN" scheme="https://blog.acgrule.tk/tags/CDN/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>docker常用容器部署</title>
+    <link href="https://blog.acgrule.tk/posts/bbf52cca.html"/>
+    <id>https://blog.acgrule.tk/posts/bbf52cca.html</id>
+    <published>2020-12-13T02:51:32.000Z</published>
+    <updated>2021-01-28T13:40:44.415Z</updated>
+    
+    <summary type="html">
+    
+      vagrant虚拟机环境
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.acgrule.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="悦读" scheme="https://blog.acgrule.tk/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="Linux" scheme="https://blog.acgrule.tk/tags/Linux/"/>
+    
+      <category term="Vagrant" scheme="https://blog.acgrule.tk/tags/Vagrant/"/>
+    
+      <category term="VirtualBox" scheme="https://blog.acgrule.tk/tags/VirtualBox/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>创建vagrant虚拟机环境</title>
+    <link href="https://blog.acgrule.tk/posts/4f29af49.html"/>
+    <id>https://blog.acgrule.tk/posts/4f29af49.html</id>
+    <published>2020-12-13T02:51:32.000Z</published>
+    <updated>2021-01-28T13:40:44.419Z</updated>
+    
+    <summary type="html">
+    
+      vagrant虚拟机环境
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.acgrule.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="悦读" scheme="https://blog.acgrule.tk/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="Linux" scheme="https://blog.acgrule.tk/tags/Linux/"/>
+    
+      <category term="Vagrant" scheme="https://blog.acgrule.tk/tags/Vagrant/"/>
+    
+      <category term="VirtualBox" scheme="https://blog.acgrule.tk/tags/VirtualBox/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="https://blog.acgrule.tk/posts/186f70d4.html"/>
+    <id>https://blog.acgrule.tk/posts/186f70d4.html</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2021-01-28T13:40:44.415Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.acgrule.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="悦读" scheme="https://blog.acgrule.tk/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="web" scheme="https://blog.acgrule.tk/tags/web/"/>
+    
+      <category term="神奇站点" scheme="https://blog.acgrule.tk/tags/%E7%A5%9E%E5%A5%87%E7%AB%99%E7%82%B9/"/>
+    
+      <category term="转载" scheme="https://blog.acgrule.tk/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+</feed>
