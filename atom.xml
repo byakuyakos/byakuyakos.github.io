@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>acgnwang</title>
+  <title>byakuyakos</title>
   
   
   <link href="/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://blog.acgrule.tk/</id>
   
   <author>
-    <name>acgnwang</name>
+    <name>byakuyakos</name>
     
   </author>
   
@@ -50,30 +50,6 @@
   </entry>
   
   <entry>
-    <title>Github加速下载和克隆</title>
-    <link href="https://blog.acgrule.tk/posts/a68ad31b.html"/>
-    <id>https://blog.acgrule.tk/posts/a68ad31b.html</id>
-    <published>2020-12-13T02:51:32.000Z</published>
-    <updated>2021-01-28T13:40:44.414Z</updated>
-    
-    <summary type="html">
-    
-      Github加速下载和克隆
-    
-    </summary>
-    
-      <category term="技术" scheme="https://blog.acgrule.tk/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="悦读" scheme="https://blog.acgrule.tk/tags/%E6%82%A6%E8%AF%BB/"/>
-    
-      <category term="Github" scheme="https://blog.acgrule.tk/tags/Github/"/>
-    
-      <category term="CDN" scheme="https://blog.acgrule.tk/tags/CDN/"/>
-    
-  </entry>
-  
-  <entry>
     <title>docker常用容器部署</title>
     <link href="https://blog.acgrule.tk/posts/bbf52cca.html"/>
     <id>https://blog.acgrule.tk/posts/bbf52cca.html</id>
@@ -96,6 +72,30 @@
       <category term="Vagrant" scheme="https://blog.acgrule.tk/tags/Vagrant/"/>
     
       <category term="VirtualBox" scheme="https://blog.acgrule.tk/tags/VirtualBox/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github加速下载和克隆</title>
+    <link href="https://blog.acgrule.tk/posts/a68ad31b.html"/>
+    <id>https://blog.acgrule.tk/posts/a68ad31b.html</id>
+    <published>2020-12-13T02:51:32.000Z</published>
+    <updated>2021-01-28T13:40:44.414Z</updated>
+    
+    <summary type="html">
+    
+      Github加速下载和克隆
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.acgrule.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="悦读" scheme="https://blog.acgrule.tk/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="Github" scheme="https://blog.acgrule.tk/tags/Github/"/>
+    
+      <category term="CDN" scheme="https://blog.acgrule.tk/tags/CDN/"/>
     
   </entry>
   
