@@ -26,7 +26,7 @@ function bot_ui_ini() {
     }).then(function () {
         botui.message.add({
             delay: 1100,
-            content: "这里是 acgnwang"
+            content: "这里是 Byakuyako"
         }).then(function () {
             botui.message.add({
                 delay: 1100,
@@ -65,7 +65,7 @@ function bot_ui_ini() {
         secondpart = function () {
             botui.message.add({
                 delay: 1500,
-                content: "24岁，是个打工人"
+                content: "24岁，是学生"
             }).then(function () {
                 botui.message.add({
                     delay: 1500,
@@ -90,8 +90,8 @@ function bot_ui_ini() {
                                     botui.action.button({
                                         delay: 1100,
                                         action: [{
-                                            text: "为什么叫acgnwang呢？ 🤔",
-                                            value: "why-acgnwang"
+                                            text: "为什么叫Byakuyako呢？ 🤔",
+                                            value: "why-Byakuyako"
                                         }]
                                     }).then(function (a) {
                                         thirdpart()
@@ -106,12 +106,12 @@ function bot_ui_ini() {
         thirdpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "acgnwang爱好+名字~ 如果有兴趣可以找找首页上的视频~"
+                content: "Byakuyako~ 是小说白夜行的罗马音，如果有兴趣可以找找首页上的视频~"
             }).then(function () {
                 botui.action.button({
                     delay: 1500,
                     action: [{
-                        text: "为什么是chainsR呢？ 🤔",
+                        text: "为什么是白夜行这本小说呢？ 🤔",
                         value: "why-chainsR"
                     }]
                 }).then(function (a) {
@@ -134,7 +134,7 @@ function bot_ui_ini() {
                             text: "域名有什么含意吗？(ง •_•)ง",
                             value: "why-domain"
                         }]
-                    }).then(function (a) {
+                    }).then(function (a) { 
                         fifthpart()
                     })
                 })
